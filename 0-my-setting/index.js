@@ -1,5 +1,5 @@
 // đây là commment
-// ghi chú như vầy là đéo bao giờ mà đọc luôn
+// ghi chú như vầy là bao giờ mà đọc luôn
 const numbers = 'ThanhLong'
 
 
